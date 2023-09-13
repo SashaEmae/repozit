@@ -26,10 +26,15 @@ namespace WinFormsApp1
                 {
                     MessageBox.Show("¬ведите целое число в пределпх от 0 до 10000");
                 }
-
-
+                
+                
             }
+            var count = new Count();
+
+            double sum = count.GetResult(n, m);
+            MessageBox.Show($"{sum}");
         }
+
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
