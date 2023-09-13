@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\HSasha\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\HSasha\\.nuget\\packages"
+      "C:\\Users\\krolik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krolik\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
